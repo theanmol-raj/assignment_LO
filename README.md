@@ -24,8 +24,8 @@ You can install them using `pip`:
 
 pip install tensorflow transformers datasets
 # Steps for Execution :
--Run every cell one after another 
--This notebook saves a model in .h5 format for further training and implementation
+- Run every cell one after another 
+- This notebook saves a model in .h5 format for further training and implementation
 
 
 ### Load the Model
